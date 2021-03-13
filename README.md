@@ -6,7 +6,6 @@ This program relies on alerts and prompts for user input. If you have these disa
 
 # Not fully tested, expect bugs!
 I have not written tests for game.js so you might experience some unexpected results. 
-For example, try passing a string when selecting the number of rounds to play!
 
 # Contributing
 I am hoping to add a front end and make gameplay smoother. Feel free to check for issues on this repo and pull in your changes!
